@@ -45,7 +45,7 @@ The following tables can be found:
   (https://www.nco.ncep.noaa.gov/pmb/docs/on388/table0.html)
 
   That table has the following columns:
-  - code: Index between 0 and 255 of the originating center
+  - code: A 16-bit integer index between 0 and 289 of the originating center
   - name: Name of the originating center
 
 * grib2_subcenter.csv: Content of Table C "National subcenters"
